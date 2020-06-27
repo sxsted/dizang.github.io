@@ -5,41 +5,63 @@
   <url>
     <loc>https://dizang.io/tags/blog/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/blog/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/hugo/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/posts/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/hugo/</loc>
+    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/</loc>
+    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/</loc>
+    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/posts/my_first_post/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/series/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
 </urlset>
