@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Treat everyone kindly and light up the night</title>
+    <link>https://dizang.io/tags/</link>
+    <description>Recent content in Tags on Treat everyone kindly and light up the night</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 08 May 2019 00:58:26 +0800</lastBuildDate>
+    
+        <atom:link href="https://dizang.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>使用 Hugo 紀錄生活</title>
+      <link>https://dizang.io/posts/my_first_post/</link>
+      <pubDate>Wed, 08 May 2019 00:58:26 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/my_first_post/</guid>
+      <description>人到了一個年紀，腦袋的確越來越不好使， 所以需要開始使把經歷過的事情，記錄下來。
+ 在開始之前，對於要用什麼服務，花了一點時間思考， 最終因為以下幾點原因，選擇了 Hugo 。
+1. 支援 markdown 語法 2. 安裝簡單，易於部署 3. 輕量，快速  詳細比較可參考以下
+網站連結
+官方網站</description>
+    </item>
+    
+  </channel>
+</rss>
