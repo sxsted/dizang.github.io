@@ -3,6 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dizang.io/tags/command/</loc>
+    <lastmod>2020-06-28T16:01:57+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/</loc>
+    <lastmod>2020-06-28T16:01:57+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/hugo/</loc>
+    <lastmod>2020-06-28T16:01:57+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/hugo-commands/</loc>
+    <lastmod>2020-06-28T16:01:57+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/</loc>
+    <lastmod>2020-06-28T16:01:57+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/</loc>
+    <lastmod>2020-06-28T16:01:57+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dizang.io/tags/blog/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -18,34 +60,6 @@
   
   <url>
     <loc>https://dizang.io/categories/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/hugo/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/posts/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
