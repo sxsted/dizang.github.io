@@ -45,6 +45,41 @@
   </url>
   
   <url>
+    <loc>https://dizang.io/categories/</loc>
+    <lastmod>2019-12-09T20:58:17+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/development/</loc>
+    <lastmod>2019-12-09T20:58:17+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/tmux/</loc>
+    <lastmod>2019-12-09T20:58:17+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/categories/tmux/</loc>
+    <lastmod>2019-12-09T20:58:17+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/terminal-tmux/</loc>
+    <lastmod>2019-12-09T20:58:17+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dizang.io/tags/blog/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -53,13 +88,6 @@
   
   <url>
     <loc>https://dizang.io/categories/blog/</loc>
-    <lastmod>2019-05-08T00:58:26+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/categories/</loc>
     <lastmod>2019-05-08T00:58:26+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

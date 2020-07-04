@@ -154,7 +154,7 @@
       <div class="article-header">
         <h1 itemprop="name">
   <a
-    class="article-title"
+    class="article-date"
     href="/posts/hugo-commands/"
     >Hugo 常用指令</a
   >
@@ -183,6 +183,47 @@ Hugo Basic Usage
 
         <span class="post-comment"><i class="icon icon-comment"></i> &nbsp;<a href="/posts/hugo-commands/#comments" class="article-comment-link">Comments</a></span>
 		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 52words</span>
+		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 1minutes </span>
+      </p>
+    </article>
+    <article
+      class="article article-type-page"
+      itemscope
+      itemtype="http://schema.org/BlogPosting"
+    >
+      <div class="article-header">
+        <h1 itemprop="name">
+  <a
+    class="article-title"
+    href="/posts/terminal-tmux/"
+    >終端機工具 Tmux</a
+  >
+</h1>
+
+      </div>
+      <div class="article-entry text-muted" itemprop="description">
+        tmux 官方說法是 terminal multiplexer，我把它理解為終端機的管理工具，這套工具可以讓你在執行一個終端機的情況下，開啟很多個 session、 視窗等等，對於程式開發人員來說，非常方便。
+如何下載 # mac ruby -e &#34;$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)&#34; brew update brew install tmux # ubuntu sudo apt-get install tmux 個人常用的按鍵 # tmux 的一個 session 可以有多個視窗 ，一個視窗可以有多個 pane # 視窗操作 指令 C-b + c ：建立一個新視窗 指令 C-b + n ：移動到下一個視窗 指令 C-b + p ：移動到上一個視窗 指令 C-b + &#34; ：水平分割視窗 指令 C-b + % ：垂直分割視窗 指令 C-b + o ：切換視窗裡分割的 pane 指令 C-b + x ：關閉視窗 指令 C-d ：關閉視窗 指令 C-b d || C-b D 離開此 session：但是這些 session 還是在背景執行。 # session 管理 指令 tmux ：啟用 tmux ，預設會自動建立一個 session 指令 exit ：離開 指令 tmux ls ：列出所有 session 指令 tmux attach -t &lt;session number&gt; ：連去指定的 session 指令 tmux new -s &lt;session name&gt; ：可以自行定義此 session 名稱 指令 tmux rename-session -t &lt;session number&gt; &lt;session name&gt; ： 可以重新定義 session 名稱 指令 tmux kill-session -t &lt;session number&gt; ：刪除 session 參考資料： http://man.
+      </div>
+      <p class="article-meta">
+<span class="article-date">
+  <i class="icon icon-calendar-check"></i>&nbsp;
+<a href="https://dizang.io/posts/terminal-tmux/" class="">
+  <time datetime="2019-12-09 20:58:17 &#43;0800 CST" itemprop="datePublished">2019-12-09</time>
+</a>
+</span>
+<span class="article-category">
+  <i class="icon icon-folder"></i>&nbsp;
+  <a class="article-category-link" href="/categories/tmux/"> tmux </a>
+</span>  
+  <span class="article-tag">
+    <i class="icon icon-tags"></i>&nbsp;
+    <a class="article-tag-link" href="/tags/tmux/"> tmux </a>
+    <a class="article-tag-link" href="/tags/development/"> development </a>
+  </span>
+
+        <span class="post-comment"><i class="icon icon-comment"></i> &nbsp;<a href="/posts/terminal-tmux/#comments" class="article-comment-link">Comments</a></span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 141words</span>
 		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 1minutes </span>
       </p>
     </article>
