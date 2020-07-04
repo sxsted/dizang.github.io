@@ -15,7 +15,8 @@
       <pubDate>Sun, 28 Jun 2020 16:01:57 +0800</pubDate>
       
       <guid>https://dizang.io/posts/hugo-commands/</guid>
-      <description>紀錄一下 Hugo 的一些常用指令 // 查看部落格的基本資訊 &amp;gt;&amp;gt; hugo // 查看網站設定資訊 &amp;gt;&amp;gt; hugo config // 建立新的文章 &amp;gt;&amp;gt; hugo new posts/&amp;lt;文章名稱&amp;gt;.md // 建立新網站 &amp;gt;&amp;gt; hugo new site &amp;lt;網站名稱&amp;gt; // 啟用 local server &amp;gt;&amp;gt; hugo server -D // 產生靜態頁面檔案 &amp;gt;&amp;gt; hugo -D // 查看 hugo 版本 &amp;gt;&amp;gt; hugo version  參考資料
+      <description>紀錄一下 Hugo 的一些常用指令
+// 查看部落格的基本資訊 &amp;gt;&amp;gt; hugo // 查看網站設定資訊 &amp;gt;&amp;gt; hugo config // 建立新的文章 &amp;gt;&amp;gt; hugo new posts/&amp;lt;文章名稱&amp;gt;.md // 建立新網站 &amp;gt;&amp;gt; hugo new site &amp;lt;網站名稱&amp;gt; // 啟用 local server &amp;gt;&amp;gt; hugo server -D // 產生靜態頁面檔案 &amp;gt;&amp;gt; hugo -D // 查看 hugo 版本 &amp;gt;&amp;gt; hugo version  參考資料
 Hugo Quick Start
 Hugo Basic Usage</description>
     </item>
