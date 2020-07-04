@@ -16,10 +16,7 @@
       <pubDate>Sun, 28 Jun 2020 16:01:57 +0800</pubDate>
       
       <guid>https://dizang.io/posts/hugo-commands/</guid>
-      <description>紀錄一下 Hugo 的一些常用指令
-// 查看部落格的基本資訊 &amp;gt;&amp;gt; hugo // 查看網站設定資訊 &amp;gt;&amp;gt; hugo config // 建立新的文章 &amp;gt;&amp;gt; hugo new posts/&amp;lt;文章名稱&amp;gt;.md // 建立新網站 &amp;gt;&amp;gt; hugo new site &amp;lt;網站名稱&amp;gt; // 啟用 local server &amp;gt;&amp;gt; hugo server -D // 產生靜態頁面檔案 &amp;gt;&amp;gt; hugo -D // 查看 hugo 版本 &amp;gt;&amp;gt; hugo version  參考資料
-Hugo Quick Start
-Hugo Basic Usage</description>
+      <description>紀錄一下 Hugo 的一些常用指令 // 查看部落格的基本資訊 &amp;gt;&amp;gt; hugo // 查看網站設定資訊 &amp;gt;&amp;gt; hugo config // 建立新的文章 &amp;gt;&amp;gt; hugo new posts/&amp;lt;文章名稱&amp;gt;.md // 建</description>
     </item>
     
     <item>
@@ -28,8 +25,7 @@ Hugo Basic Usage</description>
       <pubDate>Mon, 09 Dec 2019 20:58:17 +0800</pubDate>
       
       <guid>https://dizang.io/posts/terminal-tmux/</guid>
-      <description>tmux 官方說法是 terminal multiplexer，我把它理解為終端機的管理工具，這套工具可以讓你在執行一個終端機的情況下，開啟很多個 session、 視窗等等，對於程式開發人員來說，非常方便。
-如何下載 # mac ruby -e &amp;#34;$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)&amp;#34; brew update brew install tmux # ubuntu sudo apt-get install tmux 個人常用的按鍵 # tmux 的一個 session 可以有多個視窗 ，一個視窗可以有多個 pane # 視窗操作 指令 C-b + c ：建立一個新視窗 指令 C-b + n ：移動到下一個視窗 指令 C-b + p ：移動到上一個視窗 指令 C-b + &amp;#34; ：水平分割視窗 指令 C-b + % ：垂直分割視窗 指令 C-b + o ：切換視窗裡分割的 pane 指令 C-b + x ：關閉視窗 指令 C-d ：關閉視窗 指令 C-b d || C-b D 離開此 session：但是這些 session 還是在背景執行。 # session 管理 指令 tmux ：啟用 tmux ，預設會自動建立一個 session 指令 exit ：離開 指令 tmux ls ：列出所有 session 指令 tmux attach -t &amp;lt;session number&amp;gt; ：連去指定的 session 指令 tmux new -s &amp;lt;session name&amp;gt; ：可以自行定義此 session 名稱 指令 tmux rename-session -t &amp;lt;session number&amp;gt; &amp;lt;session name&amp;gt; ： 可以重新定義 session 名稱 指令 tmux kill-session -t &amp;lt;session number&amp;gt; ：刪除 session 參考資料： http://man.</description>
+      <description>tmux 官方說法是 terminal multiplexer，我把它理解為終端機的管理工具，這套工具可以讓你在執行一個終端機的情況下，開啟很多個 session、 視窗</description>
     </item>
     
     <item>
@@ -38,11 +34,7 @@ Hugo Basic Usage</description>
       <pubDate>Wed, 08 May 2019 00:58:26 +0800</pubDate>
       
       <guid>https://dizang.io/posts/my_first_post/</guid>
-      <description>人到了一個年紀，腦袋的確越來越不好使， 所以需要開始使把經歷過的事情，記錄下來。
- 在開始之前，對於要用什麼服務，花了一點時間思考， 最終因為以下幾點原因，選擇了 Hugo 。
-1. 支援 markdown 語法 2. 安裝簡單，易於部署 3. 輕量，快速  詳細比較可參考以下
-網站連結
-官方網站</description>
+      <description>人到了一個年紀，腦袋的確越來越不好使， 所以需要開始使把經歷過的事情，記錄下來。  在開始之前，對於要用什麼服務，花了一點時間思考， 最終因為以下</description>
     </item>
     
   </channel>
