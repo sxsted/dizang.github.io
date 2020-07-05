@@ -19,6 +19,15 @@
     </item>
     
     <item>
+      <title>CSS 視窗捲動效果</title>
+      <link>https://dizang.io/posts/css-scroll-behavior/</link>
+      <pubDate>Fri, 28 Feb 2020 16:04:36 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/css-scroll-behavior/</guid>
+      <description>CSS 視窗捲動效果 在做網頁的時，我們為了要讓某些連結點了之後移動到適當的位置，我們會透過 HTML anchor link 定義此連結，達到上述的功能。 不過這個功能的體驗，感</description>
+    </item>
+    
+    <item>
       <title>終端機工具 Tmux</title>
       <link>https://dizang.io/posts/terminal-tmux/</link>
       <pubDate>Mon, 09 Dec 2019 20:58:17 +0800</pubDate>
