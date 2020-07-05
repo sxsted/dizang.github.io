@@ -28,6 +28,15 @@
     </item>
     
     <item>
+      <title>NPM 檢查過期套件模組</title>
+      <link>https://dizang.io/posts/npm-command-outdated/</link>
+      <pubDate>Sun, 23 Feb 2020 16:24:55 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/npm-command-outdated/</guid>
+      <description>NPM 檢查過期套件模組 對於前端開發者來說，相信 NPM (Node Package Manager) 大家一定都不陌生，它是一個線上 JavaScript 套件庫，使用者可以根據自己的需求，下載套件來使用。 但線上的</description>
+    </item>
+    
+    <item>
       <title>終端機工具 Tmux</title>
       <link>https://dizang.io/posts/terminal-tmux/</link>
       <pubDate>Mon, 09 Dec 2019 20:58:17 +0800</pubDate>

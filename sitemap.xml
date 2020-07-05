@@ -80,6 +80,34 @@
   </url>
   
   <url>
+    <loc>https://dizang.io/categories/development/</loc>
+    <lastmod>2020-02-23T16:24:55+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/npm/</loc>
+    <lastmod>2020-02-23T16:24:55+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/categories/npm/</loc>
+    <lastmod>2020-02-23T16:24:55+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/npm-command-outdated/</loc>
+    <lastmod>2020-02-23T16:24:55+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dizang.io/tags/development/</loc>
     <lastmod>2019-12-09T20:58:17+08:00</lastmod>
     <changefreq>monthly</changefreq>
