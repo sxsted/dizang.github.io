@@ -2,7 +2,8 @@
 <html lang="en">
   <head>
     <title>
-        Dizang Blog</title>
+        Python - 取得終端機執行的指令參數 - Dizang Blog
+      </title>
         <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport"
@@ -19,25 +20,32 @@
     <meta http-equiv="window-target" content="_top" />
     
     
-    
+    <meta name="description" content="Python - 取得終端機執行的指令參數 有時後在執行一些指令進行一些操作時，會習慣從指令直接帶一些參數，好取得特定的資料， 那 python 程式碼要如何取得在終端機執" />
     <meta name="generator" content="Hugo 0.72.0 with theme pure" />
-    <title>Dizang Blog</title>
+    <title>Python - 取得終端機執行的指令參數 - Dizang Blog</title>
     
-    <link rel="alternate" type="application/rss+xml" href="https://dizang.io/categories/blog/index.xml" title="Dizang Blog" />
     
     <link rel="stylesheet" href="https://dizang.io/css/style.min.7dc20efbc53647d41aa9ddea0c48e59300223d084e66ea0cbe7c30bd88903acc.css">
     
     <link rel="stylesheet" href="https://cdn.staticfile.org/highlight.js/9.15.10/styles/github.min.css" async>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.4.2/tocbot.css" async>
-    <meta property="og:title" content="blog" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://dizang.io/categories/blog/" />
-<meta property="og:updated_time" content="2019-05-08T00:58:26+08:00" />
-<meta itemprop="name" content="blog">
-<meta itemprop="description" content=""><meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="blog"/>
-<meta name="twitter:description" content=""/>
+    <meta property="og:title" content="Python - 取得終端機執行的指令參數" />
+<meta property="og:description" content="Python - 取得終端機執行的指令參數 有時後在執行一些指令進行一些操作時，會習慣從指令直接帶一些參數，好取得特定的資料， 那 python 程式碼要如何取得在終端機執" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://dizang.io/posts/python-sys-argv/" />
+<meta property="article:published_time" content="2020-02-29T23:02:47+08:00" />
+<meta property="article:modified_time" content="2020-02-29T23:02:47+08:00" />
+<meta itemprop="name" content="Python - 取得終端機執行的指令參數">
+<meta itemprop="description" content="Python - 取得終端機執行的指令參數 有時後在執行一些指令進行一些操作時，會習慣從指令直接帶一些參數，好取得特定的資料， 那 python 程式碼要如何取得在終端機執">
+<meta itemprop="datePublished" content="2020-02-29T23:02:47&#43;08:00" />
+<meta itemprop="dateModified" content="2020-02-29T23:02:47&#43;08:00" />
+<meta itemprop="wordCount" content="180">
+
+
+
+<meta itemprop="keywords" content="Python," /><meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Python - 取得終端機執行的指令參數"/>
+<meta name="twitter:description" content="Python - 取得終端機執行的指令參數 有時後在執行一些指令進行一些操作時，會習慣從指令直接帶一些參數，好取得特定的資料， 那 python 程式碼要如何取得在終端機執"/>
 
     <!--[if lte IE 9]>
         <script src="https://cdnjs.cloudflare.com/ajax/libs/classlist/1.1.20170427/classList.min.js"></script>
@@ -252,48 +260,127 @@
 
     
     
-<main class="main" role="main">
-    <article class="article article-categories article-type-list" itemscope="">
-        <header class="article-header">
-            <h1 itemprop="name" class="hidden-xs">blog</h1>
-            <p class="text-muted hidden-xs">Total 7 categories</p>
-            <nav role="navigation" id="nav-main" class="okayNav">
-                <ul>
-                    <li><a href="/categories/">All</a></li>
-                    <li><a href="https://dizang.io/categories/blog/">blog</a></li>
-                    <li><a href="https://dizang.io/categories/css/">CSS</a></li>
-                    <li><a href="https://dizang.io/categories/development/">development</a></li>
-                    <li><a href="https://dizang.io/categories/frontend/">frontend</a></li>
-                    <li><a href="https://dizang.io/categories/npm/">NPM</a></li>
-                    <li><a href="https://dizang.io/categories/python/">Python</a></li>
-                    <li><a href="https://dizang.io/categories/tmux/">tmux</a></li>
-                </ul>
-            </nav>
-        </header>
+<aside class="sidebar sidebar-toc collapse" id="collapseToc" itemscope itemtype="http://schema.org/WPSideBar">
+  <div class="slimContent">
+    <h4 class="toc-title">Catalogue</h4>
+    <nav id="toc" class="js-toc toc">
+
+    </nav>
+  </div>
+</aside>
+<main class="main" role="main"><div class="content">
+  <article id="-" class="article article-type-" itemscope
+    itemtype="http://schema.org/BlogPosting">
+    
+    <div class="article-header">
+      <h1 itemprop="name">
+  <a
+    class="article-title"
+    href="/posts/python-sys-argv/"
+    >Python - 取得終端機執行的指令參數</a
+  >
+</h1>
+
+      <div class="article-meta">
         
-        <div class="article-body">
-            <div class="panel panel-default b-no">
-                <div class="panel-heading" role="tab">
-                    <h4 class="panel-title">
-                        <a data-toggle="collapse" href="#collapse126ac9f6149081eb0e97c2e939eaad52" aria-expanded="true">
-                            <i class="icon icon-folder text-active"></i><i class="icon icon-folder-open text"></i>blog
-                        </a>
-                        <small class="text-muted">(Total1 articles)</small>
-                    </h4>
-                </div>
-                <div id="collapse126ac9f6149081eb0e97c2e939eaad52" class="panel-collapse collapse in" role="tabpanel"
-                    aria-labelledby="heading126ac9f6149081eb0e97c2e939eaad52">
-                    <div class="panel-body">
-                        <div class="collection"><a href="https://dizang.io/posts/my_first_post/" class="collection-item" itemprop="url" target="_blank">
-    <time datetime="2019-05-08 00:58:26 &#43;0800 CST" itemprop="datePublished" style="margin-right: 5px;">2019-05-08
-    </time>使用 Hugo 紀錄生活
+<span class="article-date">
+  <i class="icon icon-calendar-check"></i>&nbsp;
+<a href="https://dizang.io/posts/python-sys-argv/" class="article-date">
+  <time datetime="2020-02-29 23:02:47 &#43;0800 CST" itemprop="datePublished">2020-02-29</time>
 </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+</span>
+<span class="article-category">
+  <i class="icon icon-folder"></i>&nbsp;
+  <a class="article-category-link" href="/categories/python/"> Python </a>
+  <a class="article-category-link" href="/categories/development/"> development </a>
+</span>  
+  <span class="article-tag">
+    <i class="icon icon-tags"></i>&nbsp;
+    <a class="article-tag-link" href="/tags/python/"> Python </a>
+  </span>
+
+        <span class="post-comment"><i class="icon icon-comment"></i>&nbsp;<a href="/posts/python-sys-argv/#comments"
+            class="article-comment-link">Comments</a></span>
+		<span class="post-wordcount hidden-xs" itemprop="wordCount">Word Count: 180words</span>
+		<span class="post-readcount hidden-xs" itemprop="timeRequired">Read Count: 1minutes </span>
+      </div>
+    </div>
+    <div class="article-entry marked-body js-toc-content" itemprop="articleBody">
+      <h3 id="python---取得終端機執行的指令參數">Python - 取得終端機執行的指令參數</h3>
+<p>有時後在執行一些指令進行一些操作時，會習慣從指令直接帶一些參數，好取得特定的資料，
+那 <code>python</code> 程式碼要如何取得在終端機執行的指令參數呢？</p>
+<p>很簡單，只要使用 python 標準函式庫 <code>sys</code> 模組裡的 <code>argv</code> 變數就可以了。</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-python" data-lang="python"><span style="color:#75715e"># 範例程式碼</span>
+<span style="color:#75715e"># 在終端機輸入 python demo.py one two three 會有以下輸出結果：</span>
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#f92672">import</span> sys
+<span style="color:#f92672">&gt;&gt;&gt;</span> <span style="color:#66d9ef">print</span>(sys<span style="color:#f92672">.</span>argv)
+[<span style="color:#e6db74">&#39;demo.py&#39;</span>, <span style="color:#e6db74">&#39;one&#39;</span>, <span style="color:#e6db74">&#39;two&#39;</span>, <span style="color:#e6db74">&#39;three&#39;</span>]
+</code></pre></div><hr>
+<p>如果要更為複雜的使用終端機輸入的指令的話，可以使用 sys 模組裡的 <code>argparse</code> 變數。</p>
+<h4 id="參考資料">參考資料</h4>
+<p><a href="https://docs.python.org/zh-tw/3/tutorial/stdlib.html#command-line-arguments">https://docs.python.org/zh-tw/3/tutorial/stdlib.html#command-line-arguments</a></p>
+
+    </div>
+    <div class="article-footer">
+<blockquote class="mt-2x">
+  <ul class="post-copyright list-unstyled">
+    <li class="post-copyright-link hidden-xs">
+      <strong>Permalink: </strong>
+      <a href="https://dizang.io/posts/python-sys-argv/" title="Python - 取得終端機執行的指令參數" target="_blank" rel="external">https://dizang.io/posts/python-sys-argv/</a>
+    </li>
+    <li class="post-copyright-license">
+      <strong>License：</strong><a href="http://creativecommons.org/licenses/by/4.0/deed.zh" target="_blank" rel="external">CC BY 4.0 CN</a>
+    </li>
+  </ul>
+</blockquote>
+
+<div class="panel panel-default panel-badger">
+  <div class="panel-body">
+    <figure class="media">
+      <div class="media-left">
+        <a href="" target="_blank" class="img-burn thumb-sm visible-lg">
+          <img src="https://dizang.io/dizang.png" class="img-rounded w-full" alt="">
+        </a>
+      </div>
+      <div class="media-body">
+        <h3 class="media-heading"><a href="" target="_blank"><span class="text-dark">Dizang</span><small class="ml-1x">記錄生活</small></a></h3>
+        <div></div>
+      </div>
+    </figure>
+  </div>
+</div>
+    </div>
+  </article>
+
+</div><nav class="bar bar-footer clearfix" data-stick-bottom>
+    <div class="bar-inner">
+        <ul class="pager pull-left">
+            <li class="prev">
+                <a href="https://dizang.io/posts/css-scroll-behavior/" title="CSS 視窗捲動效果"><i
+                        class="icon icon-angle-left"
+                        aria-hidden="true"></i><span>&nbsp;&nbsp;Older</span></a>
+            </li>
+            <li class="next">
+                <a href="https://dizang.io/posts/hugo-commands/"
+                    title="Hugo 常用指令"><span>Newer&nbsp;&nbsp;</span><i
+                        class="icon icon-angle-right" aria-hidden="true"></i></a>
+            </li>
+            
+            <li class="toggle-toc">
+                <a class="toggle-btn collapsed" data-toggle="collapse" href="#collapseToc" aria-expanded="false"
+                    title="Catalogue" role="button">
+                    <span>[&nbsp;</span><span>Catalogue</span>
+                    <i class="text-collapsed icon icon-anchor"></i>
+                    <i class="text-in icon icon-close"></i>
+                    <span>]</span>
+                </a>
+            </li>
+        </ul>
+        <div class="bar-right">
         </div>
-    </article>
+    </div>
+</nav>
+
 </main><footer class="footer" itemscope itemtype="http://schema.org/WPFooter">
   <div class="copyright">
     &copy;2019  -
@@ -360,6 +447,7 @@
         hasInnerContainers: true,
     });
 </script>
+
 
 <script type="application/javascript">
 var doNotTrack = false;
