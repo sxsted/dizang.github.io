@@ -80,6 +80,34 @@
   </url>
   
   <url>
+    <loc>https://dizang.io/categories/frontend/</loc>
+    <lastmod>2020-02-29T01:23:18+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/git/</loc>
+    <lastmod>2020-02-29T01:23:18+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/categories/git/</loc>
+    <lastmod>2020-02-29T01:23:18+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/git-index-lock/</loc>
+    <lastmod>2020-02-29T01:23:18+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dizang.io/tags/css/</loc>
     <lastmod>2020-02-28T16:04:36+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -95,13 +123,6 @@
   
   <url>
     <loc>https://dizang.io/posts/css-scroll-behavior/</loc>
-    <lastmod>2020-02-28T16:04:36+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/categories/frontend/</loc>
     <lastmod>2020-02-28T16:04:36+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
