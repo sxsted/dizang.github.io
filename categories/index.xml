@@ -5,19 +5,10 @@
     <link>https://dizang.io/categories/</link>
     <description>Recent content in Categories on Dizang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 11 Jul 2020 16:40:56 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2020 02:41:06 +0800</lastBuildDate>
     
         <atom:link href="https://dizang.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Git delete branch (刪除分支)</title>
-      <link>https://dizang.io/posts/git-delete-branch/</link>
-      <pubDate>Sat, 11 Jul 2020 16:40:56 +0800</pubDate>
-      
-      <guid>https://dizang.io/posts/git-delete-branch/</guid>
-      <description>Git delete branch (刪除分支) 每過一段時間，都要定時清理一下專案上分支的數量，不然時間一長，清理起來會很痛苦，所以這邊紀錄一下 Git delete branch (刪除分支) 的語法。</description>
-    </item>
     
     <item>
       <title>Git log 使用方法</title>
@@ -80,6 +71,15 @@
       
       <guid>https://dizang.io/posts/npm-command-outdated/</guid>
       <description>NPM 檢查過期套件模組 對於前端開發者來說，相信 NPM (Node Package Manager) 大家一定都不陌生，它是一個線上 JavaScript 套件庫，使用者可以根據自己的需求，下載套件來使用。 但線上的</description>
+    </item>
+    
+    <item>
+      <title>Git delete branch (刪除分支)</title>
+      <link>https://dizang.io/posts/git-delete-branch/</link>
+      <pubDate>Mon, 13 Jan 2020 16:40:56 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/git-delete-branch/</guid>
+      <description>Git delete branch (刪除分支) 每過一段時間，都要定時清理一下專案上分支的數量，不然時間一長，清理起來會很痛苦，所以這邊紀錄一下 Git delete branch (刪除分支) 的語法。</description>
     </item>
     
     <item>

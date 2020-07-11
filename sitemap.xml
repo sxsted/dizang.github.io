@@ -4,69 +4,62 @@
   
   <url>
     <loc>https://dizang.io/categories/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/development/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/frontend/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/tags/git/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/git/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/posts/git-delete-branch/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/posts/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/</loc>
-    <lastmod>2020-07-11T16:40:56+08:00</lastmod>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/posts/git-log/</loc>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/</loc>
+    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/</loc>
     <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -166,6 +159,13 @@
   <url>
     <loc>https://dizang.io/posts/npm-command-outdated/</loc>
     <lastmod>2020-02-23T16:24:55+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/git-delete-branch/</loc>
+    <lastmod>2020-01-13T16:40:56+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
