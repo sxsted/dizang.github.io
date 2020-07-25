@@ -4,28 +4,63 @@
   
   <url>
     <loc>https://dizang.io/categories/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/development/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/disqus/</loc>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/frontend/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/hugo/</loc>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/hugo-install-disqus/</loc>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/</loc>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/</loc>
+    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -52,20 +87,6 @@
   </url>
   
   <url>
-    <loc>https://dizang.io/posts/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://dizang.io/posts/git-branch-rename/</loc>
     <lastmod>2020-07-11T02:34:43+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -74,13 +95,6 @@
   
   <url>
     <loc>https://dizang.io/tags/command/</loc>
-    <lastmod>2020-06-28T16:01:57+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/hugo/</loc>
     <lastmod>2020-06-28T16:01:57+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
