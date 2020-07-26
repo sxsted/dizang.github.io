@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>Nginx 指令</title>
+      <link>https://dizang.io/posts/nginx-command/</link>
+      <pubDate>Sun, 26 Jul 2020 12:34:15 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/nginx-command/</guid>
+      <description>Nginx 指令 紀錄一下 Nginx 幾個簡單常用指令 # 檢查 nginx 狀態 service nginx status --- # 啟動 nginx /etc/init.d/nginx start service nginx start systemctl start nginx # For mac OS X sudo nginx --- # 關閉 nginx /etc/init.d/nginx stop service nginx stop systemctl stop nginx # For mac OS X sudo nginx -s stop (快速</description>
+    </item>
+    
+    <item>
       <title>Hugo 安裝 Disqus 留言板</title>
       <link>https://dizang.io/posts/hugo-install-disqus/</link>
       <pubDate>Sun, 19 Jul 2020 20:53:18 +0800</pubDate>
