@@ -3,22 +3,64 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://dizang.io/categories/backend/</loc>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://dizang.io/categories/</loc>
-    <lastmod>2020-07-26T12:34:15+08:00</lastmod>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/development/</loc>
-    <lastmod>2020-07-26T12:34:15+08:00</lastmod>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/</loc>
-    <lastmod>2020-07-26T12:34:15+08:00</lastmod>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/php/</loc>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/categories/php/</loc>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/php-short-echo-tag/</loc>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/</loc>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/</loc>
+    <lastmod>2020-08-09T00:53:22+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,20 +81,6 @@
   
   <url>
     <loc>https://dizang.io/posts/nginx-command/</loc>
-    <lastmod>2020-07-26T12:34:15+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/posts/</loc>
-    <lastmod>2020-07-26T12:34:15+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/</loc>
     <lastmod>2020-07-26T12:34:15+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

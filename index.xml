@@ -5,10 +5,19 @@
     <link>https://dizang.io/</link>
     <description>Recent content on Dizang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 26 Jul 2020 12:34:15 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2020 00:53:22 +0800</lastBuildDate>
     
         <atom:link href="https://dizang.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PHP &lt;?= 標籤</title>
+      <link>https://dizang.io/posts/php-short-echo-tag/</link>
+      <pubDate>Sun, 09 Aug 2020 00:53:22 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/php-short-echo-tag/</guid>
+      <description>PHP &amp;lt;?= 標籤 在寫 PHP 的時候，有時會看到 &amp;lt;?= 的寫法，這個寫法代表什麼意思呢？ &amp;lt;?= &amp;#39;阿彌陀佛&amp;#39; ?&amp;gt; // output 阿彌陀佛 &amp;lt;?php echo &amp;#39;阿彌陀佛&amp;#39</description>
+    </item>
     
     <item>
       <title>Nginx 指令</title>
