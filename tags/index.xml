@@ -5,10 +5,19 @@
     <link>https://dizang.io/tags/</link>
     <description>Recent content in Tags on Dizang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 09 Aug 2020 00:53:22 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2020 00:53:27 +0800</lastBuildDate>
     
         <atom:link href="https://dizang.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux - ls 按時間排序列出檔案</title>
+      <link>https://dizang.io/posts/linux-ls-command-sort-time/</link>
+      <pubDate>Wed, 12 Aug 2020 00:53:27 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/linux-ls-command-sort-time/</guid>
+      <description>Linux 指令 ls 以時間排序列出檔案，上網查了一下文章，這邊做個筆記記錄一下。 # 列出檔案，如果要以修改檔案的時間排序，只要加入參數 -t 即可 # 預設都會由最</description>
+    </item>
     
     <item>
       <title>PHP &lt;?= 標籤</title>
