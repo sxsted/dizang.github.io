@@ -5,10 +5,19 @@
     <link>https://dizang.io/categories/development/</link>
     <description>Recent content in development on Dizang Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 12 Aug 2020 00:53:27 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2020 22:20:53 +0800</lastBuildDate>
     
         <atom:link href="https://dizang.io/categories/development/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git - 如何比對本機與遠端分支 diff local and remote branch</title>
+      <link>https://dizang.io/posts/git-diff-local-remote-branch/</link>
+      <pubDate>Sat, 15 Aug 2020 22:20:53 +0800</pubDate>
+      
+      <guid>https://dizang.io/posts/git-diff-local-remote-branch/</guid>
+      <description>紀錄一下比對 local branch 及 remote branch 的語法 # 指令 git diff &amp;lt;local-branch&amp;gt; &amp;lt;remote&amp;gt;/&amp;lt;remote-branch&amp;gt; # 如果要看這次的修改 &amp;lt;commit&amp;gt; 會對遠端分支造成什麼變動，可以改變 branch 的位置 git diff &amp;lt;remote&amp;gt;/&amp;lt;remote-branch&amp;gt; &amp;lt;local-branch&amp;gt; # 更簡潔的版本 git diff origin git diff @{upstream}</description>
+    </item>
     
     <item>
       <title>Linux - ls 按時間排序列出檔案</title>

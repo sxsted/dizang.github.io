@@ -4,21 +4,63 @@
   
   <url>
     <loc>https://dizang.io/categories/</loc>
-    <lastmod>2020-08-12T00:53:27+08:00</lastmod>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/categories/development/</loc>
-    <lastmod>2020-08-12T00:53:27+08:00</lastmod>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://dizang.io/</loc>
-    <lastmod>2020-08-12T00:53:27+08:00</lastmod>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/categories/frontend/</loc>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/git/</loc>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/categories/git/</loc>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/git-diff-local-remote-branch/</loc>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/posts/</loc>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://dizang.io/tags/</loc>
+    <lastmod>2020-08-15T22:20:53+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
@@ -39,20 +81,6 @@
   
   <url>
     <loc>https://dizang.io/categories/nginx/</loc>
-    <lastmod>2020-08-12T00:53:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/posts/</loc>
-    <lastmod>2020-08-12T00:53:27+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/</loc>
     <lastmod>2020-08-12T00:53:27+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -108,13 +136,6 @@
   </url>
   
   <url>
-    <loc>https://dizang.io/categories/frontend/</loc>
-    <lastmod>2020-07-19T20:53:18+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://dizang.io/tags/hugo/</loc>
     <lastmod>2020-07-19T20:53:18+08:00</lastmod>
     <changefreq>daily</changefreq>
@@ -124,20 +145,6 @@
   <url>
     <loc>https://dizang.io/posts/hugo-install-disqus/</loc>
     <lastmod>2020-07-19T20:53:18+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/tags/git/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://dizang.io/categories/git/</loc>
-    <lastmod>2020-07-11T02:41:06+08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
